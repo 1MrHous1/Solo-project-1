@@ -1139,7 +1139,7 @@ template {
   justify-content: center;
   -ms-flex-align: center;
   align-items: center;
-  margin: 35px 0 ;
+  margin: 35px 0 0 0;
 }
 
 .gen-statistic .statistic-date input[type="date"] {
